@@ -1,0 +1,17 @@
+
+
+.container3{
+    background-color: rgba(255,254,242,255);
+    padding-bottom: 3rem;
+    padding: 3rem;
+
+}
+.vidpara{
+    display: flex;
+    align-items: center;
+   
+    
+}
+p{
+    text-align: justify;
+}
